@@ -58,7 +58,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": true,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": null,
             "spool_id": "",
             "color": "",
@@ -100,7 +100,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": null
+                "lane_loaded": ""
             }
         }
     }
