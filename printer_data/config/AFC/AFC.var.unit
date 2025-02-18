@@ -55,8 +55,8 @@
             "buffer_status": "Unknown",
             "lane": 3,
             "map": "T2",
-            "load": true,
-            "prep": true,
+            "load": false,
+            "prep": false,
             "tool_loaded": true,
             "loaded_to_hub": false,
             "material": null,
@@ -65,8 +65,8 @@
             "weight": "",
             "extruder_temp": null,
             "runout_lane": "NONE",
-            "filament_status": "Ready",
-            "filament_status_led": "#00cc00",
+            "filament_status": "Not Ready",
+            "filament_status_led": "#ff0000",
             "status": "Loaded"
         },
         "lane4": {
